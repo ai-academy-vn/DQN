@@ -1,3 +1,6 @@
+# Original work 
+from https://github.com/matrixBT/DQN-Atari-Enduro
+
 # DQN-Atari-Enduro
 Re-implementation of DQN [Deepmind] for Enduro-v0 (Atari)
 
